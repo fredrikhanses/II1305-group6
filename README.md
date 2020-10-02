@@ -1,7 +1,6 @@
-# II1305-group6
-Project course in IT, destination "passing grade"
+# Sumo Dash
+Japanese themed mobile third-person singleplayer endless runner.
 
-Group 6, *the best group*, here tries to gather their data on git, ~~without messing up~~ (git was clean for 2 days).
+Sumo Dash was developed in Unity in four weeks as a part of a game project at KTH in Stockholm, Sweden.
 
-As we learn what's needed, files will come 'n go.
-For a more detailed journey plan, see the wiki where we post updates on the project under the [wiki/Blog](wiki) sektion.
+Download game: https://fredrikhanses.itch.io/sumo-dash
